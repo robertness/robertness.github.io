@@ -18,6 +18,7 @@ Some references
 * [A/B Testing and Beyond: Improving the Netflix Streaming Experience with Experimentation and Data Science](https://medium.com/netflix-techblog/a-b-testing-and-beyond-improving-the-netflix-streaming-experience-with-experimentation-and-data-5b0ae9295bdf)
 * Vicarious's post about [General Game Playing with Schema Networks](https://www.vicarious.com/general-game-playing-with-schema-networks.html).  _The recent adaptation of deep neural network-based methods to reinforcement learning and planning domains has yielded remarkable progress on individual tasks. Nonetheless, progress on task-to-task transfer remains limited. In pursuit of efficient and robust generalization, we introduce the Schema Network, an objectoriented
 generative physics simulator capable of disentangling multiple causes of events and reasoning backward through causes to achieve goals._
+* Zhang, Junzhe, and Elias Bareinboim. Markov decision processes with unobserved confounders: A causal approach. Technical Report R-23, Purdue AI Lab, 2016. [pdf](https://www.cs.purdue.edu/homes/eb/mdp-causal.pdf)
 
 We discussed the role of causal models in addressing algorithmic bias and discriminiation.
 
