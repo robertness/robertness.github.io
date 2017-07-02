@@ -8,5 +8,5 @@ permalink: /about/
 
 My hobbies include being a nootropics nerd, classical Chinese, and keyboard rhythm games.  
 
-* Ness, R. O., Sachs, K., Mallick, P. & Vitek, O. (2016). A Bayesian active learning experimental design for inferring signaling networks.  Proceedings of the 21st Annual International Conference on Research in Computational Molecular Biology (accepted). [pdf](https://robertness.github.io/assets/manuscripts/bayes_active_learning.pdf)
+* Ness, R.O., Sachs, K., Mallick, P. and Vitek, O., 2017, May. A Bayesian Active Learning Experimental Design for Inferring Signaling Networks. In International Conference on Research in Computational Molecular Biology (pp. 134-156). Springer, Cham.. [pdf](https://robertness.github.io/assets/manuscripts/bayes_active_learning.pdf)
 * Ness, R. O., Sachs, K., & Vitek, O. (2016). From correlation to causality: statistical approaches to learning regulatory relationships in large-scale biomolecular investigations. Journal of Proteome Research, 15. [html](http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b00911) 
