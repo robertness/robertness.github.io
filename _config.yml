@@ -16,7 +16,7 @@
 title: Robert Osazuwa Ness
 email: robertness <at> gmail <dot> com
 description: > # this means to ignore newlines until "baseurl:"
-  Research in Statistical Machine Learning and Intelligent Systems in Molecular Biology
+  Applications of Statistical Machine Learning, Probabilistic Graphical Models, and Causal Inference
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robertness.github.io" # the base hostname & protocol for your site
 twitter_username: osazuwa
