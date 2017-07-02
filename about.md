@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img id="profilePic" src="https://robertness.github.io/assets/images/profile.png" align="left" style="padding:5px;">  I am a data scientist, primarily interested in probabilistic graphical models, causal inference, and Markov decision processes. Some of my publications are listed below.  I am a core developer of [bnlearn](www.bnlearn.com), an open source R package for Bayesian network structure learning.  For more professional background, see me on Twitter ([@osazuwa](https://twitter.com/osazuwa)), [Github](https://github.com/robertness), and [LinkedIn](https://www.linkedin.com/in/osazuwa)
+<img id="profilePic" src="https://robertness.github.io/assets/images/profile.png" align="left" style="padding:5px;">  I am a data scientist, primarily interested in probabilistic graphical models, causal inference, and Markov decision processes. Some of my publications are listed below.  I am a core developer of [bnlearn](www.bnlearn.com), an open source R package for Bayesian network structure learning.  For more professional background, see me on Twitter ([@osazuwa](https://twitter.com/osazuwa)), [Github](https://github.com/robertness), and [LinkedIn](https://www.linkedin.com/in/osazuwa).
 
 My hobbies include being a nootropics nerd, classical Chinese, and keyboard rhythm games.  
 
