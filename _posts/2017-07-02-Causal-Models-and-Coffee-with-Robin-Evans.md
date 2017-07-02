@@ -5,12 +5,9 @@ layout: post
 
 Yesterday, I enjoyed the company of [Robin Evans](http://www.stats.ox.ac.uk/~evans/), Oxford Statistician and causal inference expert.  A few friends from the [Bay Area Probabilistic Programming](https://www.meetup.com/Bay-Area-Probabilistic-Programming/events/241194856/) meetup were in attendence.  
 
-We discussed how the Bay Area machine learning community thinks about causal inference and causal models.  Here is how one might define causal machine learning.
+We discussed how the Bay Area machine learning community thinks about causal inference and causal models.  
 
-* Unrealized counterfactual scenarios refers to "data that we would get if we were to _do_ something different than we did to get the training".
-* _do_ here refers to an intervention in the data generating process, like serving a new ad or changing a gene.  Because an intervention changes the distribution that generated the training data, using a model trained on the training data to predict counterfactuals is extrapolation.
-* The goal of causal machine learning is to specifically to evaluate and improve counterfactual predictions.  
-* A key task in causal machine learning is randomization strategy.
+The goal of causal machine learning as evaluating and improving counterfactual predictions.  A counterfactual prediction means predicting the data we would observe if we were to _intervene in_ (i.e. change) the conditions that generated the training data. In other words, it predicts "what would happen if we were to do something different?", like serving a new kind of ad or changing a gene.  Using regular non-causal models like deep learning to predict counterfactuals is just extrapolation, which is often unreliable.  Causal models model the mechanism that generates the data, and thus can represent changes interventions make to that mechanism.  A key task in causal machine learning is addressing the nuances of randomization strategy.
 
 Some references
 
