@@ -19,8 +19,8 @@ From the latter article: _As statistical and machine learning models become an i
 
 We discussed the use of the vanishing tetrad test in constructing latent variable models.  "Tetrad" refers to the difference between the product of a pair of covariances and the product of another pair among four random variables.
 
-* Bollen, Kenneth A., and Kwok-fai Ting. "A tetrad test for causal indicators." Psychological methods 5.1 (2000): 3.
+* Bollen, Kenneth A., and Kwok-fai Ting. "A tetrad test for causal indicators." Psychological methods 5.1 (2000): 3. [pdf](http://hbanaszak.mjr.uw.edu.pl/TempTxt/BollenTing_2000_A%20tetrad%20test%20for%20causal%20indicators.pdf)
 
 We also talked about Robin's own work on in causal graphical models with latent variables.
 
-* Richardson, Thomas S., Robin J. Evans, James M. Robins, and Ilya Shpitser. "Nested Markov properties for acyclic directed mixed graphs." arXiv preprint arXiv:1701.06686 (2017).
+* Richardson, Thomas S., Robin J. Evans, James M. Robins, and Ilya Shpitser. "[Nested Markov properties for acyclic directed mixed graphs.](https://arxiv.org/abs/1701.06686)" arXiv preprint arXiv:1701.06686 (2017).
