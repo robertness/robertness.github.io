@@ -26,6 +26,18 @@ We discussed the role of causal models in addressing algorithmic bias and discri
 
 From the latter article: _As statistical and machine learning models become an increasingly ubiquitous part of our lives, policymakers, regulators, and advocates have expressed fears about the harmful impact of deployment of such models that encode harmful and discriminatory biases of their creators._
 
+Dat Nguyen asked Robin for his general recommendation on how to handle a causal problem where there’s potentially hidden latent variables, is high dimensional, and experimentation is possible but costly and/or time consuming (i.e. can't just do ad hoc A/B testing). 
+
+Robin suggests using the PC algorithm or graphical lasso to try to get a sparse representation of the system (or at least to find the strongest apparent effects).  He also suggested applying methods that try to obtain the direction of causal effects by making assumptions about additivity, sugh as Jonas Peters' work on causal discovery, or the LINGAM method.
+
+Having found some good candidates for important effects, the next step would be to try to run an experiment with interventions that would distinguish between models of interest.  Finding the whole causal model would be very hard, but answering a narrower question is plausible.  This experiment should make it much clearer what directions some effects are in, and how strong they are.  Now you can update and repeat.
+
+Theoretically, a small number of experiments is sufficient to identify the whole causal model, though this tends to assume that interventions are very clean in a way that often isn't very realistic (see [this (pdf)](http://people.hss.caltech.edu/~fde/papers/HEH2013jmlr.pdf)).
+
+* Hoyer, P.O., Janzing, D., Mooij, J.M., Peters, J. and Schölkopf, B.Hoyer, Patrik O., et al. "[Nonlinear causal discovery with additive noise models.](http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models)" Advances in Neural Information Processing Systems. 2009.
+
+* Shimizu, Shohei, et al. "[A linear non-Gaussian acyclic model for causal discovery (LINGAM).](http://www.jmlr.org/papers/v7/shimizu06a.html)" Journal of Machine Learning Research 7.Oct (2006): 2003-2030.
+
 We discussed the use of the vanishing tetrad test in constructing latent variable models.  "Tetrad" refers to the difference between the product of a pair of covariances and the product of another pair among four random variables.
 
 * Bollen, Kenneth A., and Kwok-fai Ting. "A tetrad test for causal indicators." Psychological methods 5.1 (2000): 3. [pdf](http://hbanaszak.mjr.uw.edu.pl/TempTxt/BollenTing_2000_A%20tetrad%20test%20for%20causal%20indicators.pdf)
