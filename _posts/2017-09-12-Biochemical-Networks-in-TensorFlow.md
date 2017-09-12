@@ -9,7 +9,7 @@ I've been working on using computational graphs to model systems of biochemical 
 
 Here I implement a model of the [Erk signaling cascade](https://en.wikipedia.org/wiki/MAPK/ERK_pathway), highlighted in blue in the figure below.  A quick explanation for non-biologists: it is comprised of a protein Raf becoming "activated" by some upstream process, Raf then activates Mek, Mek then activates Erk.  "Activation" here means a change in physical shape that allows it to do new things, (namely activate other proteins). This pathway is important because it is part of cellular processes related to growth and proliferation (the figure below illustrates growth hormone signaling), including bad process like cancer. 
 
-<img src="assets/figure/erk_path.png" alt="Erk path" style="width: 300px;"/>
+<img src="/assets/figure/erk_path.png" alt="Erk path" style="width: 300px;"/>
 
 **No more bio talk from here on.**
 
@@ -135,10 +135,10 @@ I ran the same simulation in systems biology simulation software Copasi, and got
 
 Unfortunately, I haven't yet figured out how to get TensorBoard to order the nodes in the way I want.  I'd like E1 to be at the top, and Erk at the bottom, so the flow is going downwards.  Instead I get the reverse, my pathway is upside down!
 
-<img src="assets/figure/tb_path.png" alt="TB path" style="width: 150px;"/>
+<img src="/assets/figure/tb_path.png" alt="TB path" style="width: 150px;"/>
 
 But other than that I've reproduced the graph I want, so I call it a success.  Zooming into the Mek node:
 
-<img src="assets/figure/tb_expand.png" alt="TB expand" style="width: 300px;"/>
+<img src="/assets/figure/tb_expand.png" alt="TB expand" style="width: 300px;"/>
 
 We see that weights, total concentration, and the "output signal" (active concentration) from the activating protein, form the "input signal" for Mek, and the activation function converts this to an "output signal", which is passed along to Erk. 
