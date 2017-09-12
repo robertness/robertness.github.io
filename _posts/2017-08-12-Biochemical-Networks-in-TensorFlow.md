@@ -129,7 +129,8 @@ plt.show()
 
 I ran the same simulation in systems biology simulation software Copasi, and got the same result!
 
-![copasi_pic](http://i.imgur.com/Xnw0xQO.png)
+<img src="http://i.imgur.com/Xnw0xQO.png" alt="copasi_pic" style="width: 150px;"/>
+
 
 ## Visualizing the computational graph
 
