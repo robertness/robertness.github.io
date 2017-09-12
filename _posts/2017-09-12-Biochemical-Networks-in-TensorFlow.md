@@ -125,7 +125,7 @@ plt.plot(E1_inputs, sim)
 plt.show()
 ```
 
-![matplotlib output](/assets/figure/sbml-markup-example.png)
+![matplotlib output](/assets/figure/output_curve.png)
 
 I ran the same simulation in systems biology simulation software Copasi, and got the same result!
 
@@ -142,5 +142,3 @@ But other than that I've reproduced the graph I want, so I call it a success.  Z
 <img src="assets/figure/tb_expand.png" alt="TB expand" style="width: 300px;"/>
 
 We see that weights, total concentration, and the "output signal" (active concentration) from the activating protein, form the "input signal" for Mek, and the activation function converts this to an "output signal", which is passed along to Erk. 
-
-So this works!  Fitting the weight parameters to data is straight-forward.  In my next notebook I'll reimplement this with [Edward](http://edwardlib.org), a probabilistic modeling extention to TensorFlow.
