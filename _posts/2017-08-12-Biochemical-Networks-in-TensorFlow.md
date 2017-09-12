@@ -1,5 +1,7 @@
-
-# Implementing a biochemical pathway model as a computational graph in TensorFlow
+---
+title: Implementing a biochemical pathway model as a computational graph in TensorFlow
+layout: post
+---
 
 I've been working on using computational graphs to model systems of biochemical reactions.  I thought I'd share a bit of it here.  If you're working on something like this, then omg we should be friends -- please reach out (@osazuwa).
 
@@ -143,3 +145,9 @@ But other than that I've reproduced the graph I want, so I call it a success.  Z
 <img src="/assets/figure/tb_expand.png" alt="TB expand" style="width: 300px;"/>
 
 We see that weights, total concentration, and the "output signal" (active concentration) from the activating protein, form the "input signal" for Mek, and the activation function converts this to an "output signal", which is passed along to Erk. 
+
+## Conclusions
+
+I think the computational graph is an excellent substrate for modeling biochemical reactions.  Firstly, despite the fact that biochemical modeling frameworks do machine-learning-ish tasks like parameter inference, simulation, and prediction, they lack the full toolset of a true machine learning framework like TensorFlow.  Why not just implement biochemical models in machine learning environments?
+
+Most interestingly, this opens the door to modeling stochastic biochemical dynamics with probabilistic programming languages built on computational graphs, like [Edward](http://edwardlib.org/getting-started) and [PyMC3](http://docs.pymc.io/).
