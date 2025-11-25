@@ -25,3 +25,8 @@ github_username:  robertness
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Navigation
+header_pages:
+  - about.md
+  - causal-ai-book.md
