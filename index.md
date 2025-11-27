@@ -11,7 +11,7 @@ layout: default
 
 I am a researcher focused on the integration of statistical inference, causal representational learning, mechanistic models, and probabilistic modeling with deep generative multimodal models. I work as a Research Scientist at Microsoft Research, and I have previously held roles across big tech and startups as an AI researcher, research engineer, and data scientist.
 
-I am the author of the book **_Causal AI_** ([Website](https://robertness.github.io/causal-ai-book/) • [Amazon](https://www.amazon.com/Causal-AI-Robert-Ness/dp/1633439917) • [Publisher](https://www.manning.com/books/causal-ai)), which introduces causal reasoning for machine learning practitioners through a practical, intuitive lens. I am also a core contributor to several open-source projects, including **GraphRAG** (https://microsoft.github.io/graphrag/), **PyWhy** (https://www.pywhy.org/), and **bnlearn** (https://www.bnlearn.com/).
+I am the author of the book [**_Causal AI_**](https://robertness.github.io/causal-ai-book/) (• [Amazon](https://www.amazon.com/Causal-AI-Robert-Ness/dp/1633439917) • [Publisher](https://www.manning.com/books/causal-ai)), which introduces causal reasoning for machine learning practitioners through a practical, intuitive lens. I am also a core contributor to several open-source projects, including [**GraphRAG**](https://microsoft.github.io/graphrag/), [**PyWhy**](https://www.pywhy.org/), and [**bnlearn**](https://www.bnlearn.com/).
 
 You can find more of my publications and professional details on  
 **[Google Scholar](https://scholar.google.com/citations?user=8gWTOBAAAAAJ&hl=en&oi=sra)** and **[LinkedIn](https://www.linkedin.com/in/osazuwa/)**.
