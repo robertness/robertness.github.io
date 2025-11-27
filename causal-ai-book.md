@@ -6,7 +6,9 @@ permalink: /causal-ai-book/
 
 # Causal AI Book
 
-![Causal AI Book Cover](/assets/images/causal-ai-book-cover.jpg)
+<figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px;">
+  <img src="/assets/images/causal-ai-book-cover.jpg" alt="Causal AI Book Cover" width="300">
+</figure>
 
 *Causal AI* is Robert Osazuwa Ness' [book on causality](https://www.manning.com/books/causal-ai).  
 
