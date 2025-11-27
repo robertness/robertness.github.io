@@ -20,7 +20,7 @@ You can find more of my publications and professional details on
 
 ---
 
-# Selected Publications (Primary Author)
+# Selected Publications
 
 - **[Multiverse Mechanica: A testbed for learning game mechanics via counterfactual Wwrlds](https://openreview.net/pdf?id=5Q8r8ZubAH)**  
   *R. Ness, R. Cannizzaro, Y. Wu, L. Kunze – 2025*  
