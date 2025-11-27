@@ -10,7 +10,18 @@ permalink: /causal-ai-book/
   <img src="/assets/images/causal-ai-book-cover.jpg" alt="Causal AI Book Cover" width="300">
 </figure>
 
-*Causal AI* is Robert Osazuwa Ness' [book on causality](https://www.manning.com/books/causal-ai).  
+*Causal AI* is my [book on causality](https://www.manning.com/books/causal-ai). It is a practical, hands-on introduction to causal inference for modern machine-learning practitioners. Unlike traditional causal books that focus primarily on applied social science, public health, and econometrics, this book is designed for readers who work directly with deep learning, probabilistic modeling, and PyTorch-based pipelines. It bridges the gap between causal reasoning and the computational tools used in today’s AI systems.
+
+The book teaches readers how to build causal models, predict intervention outcomes, reason about counterfactuals, and combine causal structure with modern generative modeling. Each chapter includes fully worked PyTorch examples, showing how to integrate causal representations (e.g., structural causal models), and likelihood-based reasoning into the deep learning workflow. Readers walk away not only understanding causal concepts, but also knowing how to implement them in code, test causal hypotheses, and improve model reliability in real applications.
+
+By the end, you can use causality to design robust models, perform better experiments, build more interpretable systems, and leverage causal structure to enhance learning in multimodal generative models.
+
+You can buy the book here:
+
+* [Amazon](https://www.amazon.com/Causal-AI-Robert-Ness/dp/1633439917)
+* [Publisher](https://www.manning.com/books/causal-ai)
+
+If you've read the book, please consider leaving a book on Amazon.
 
 This page contains links to tutorials, notebooks, references, and errata.
 
