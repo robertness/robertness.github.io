@@ -22,11 +22,11 @@ You can find more of my publications and professional details on
 
 # Selected Publications
 
-- **[Multiverse Mechanica: A testbed for learning game mechanics via counterfactual Wwrlds](https://openreview.net/pdf?id=5Q8r8ZubAH)**  
+- **[Multiverse Mechanica: A testbed for learning game mechanics via counterfactual Worlds](https://openreview.net/pdf?id=5Q8r8ZubAH)**  
   *R. Ness, R. Cannizzaro, Y. Wu, L. Kunze – 2025*  
   Introduces a counterfactual generative testbed for evaluating causal world models and game mechanics.
 
-- **[Causal Reasoning and Large Language Models](https://arxiv.org/abs/2305.00050): Opening a new frontier for causality**  
+- **[Causal Reasoning and Large Language Models: Opening a new frontier for causality](https://arxiv.org/abs/2305.00050)**
   *E. Kiciman, R. Ness, A. Sharma, C. Tan – Transactions on Machine Learning Research, 2023*  
   An exploration of how large language models intersect with classical causal inference frameworks.
 
