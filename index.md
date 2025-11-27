@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-<figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px;">
+<figure style="float: left; width: 200px; margin-right: 20px; margin-bottom: 10px;">
   <img src="assets/images/robert_ness_profile_pic.jpg" alt="Robert Osazuwa Ness" width="300">
   <figcaption><em>Robert Osazuwa Ness – Researcher in Causal AI, Probabilistic Modeling & Multimodal Systems</em></figcaption>
 </figure>
