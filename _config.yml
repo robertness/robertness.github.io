@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Applications of Statistical Machine Learning, Probabilistic Graphical Models, and Causal Inference
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robertness.github.io" # the base hostname & protocol for your site
-twitter_username: osazuwa
 github_username:  robertness
+linkedin_username: osazuwa
 
 # Build settings
 markdown: kramdown
@@ -29,5 +29,5 @@ theme: minima
 # Navigation
 header_pages:
   - index.md
-  - blog.md
   - causal-ai-book.md
+  - blog.md
