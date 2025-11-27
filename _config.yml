@@ -28,5 +28,6 @@ theme: minima
 
 # Navigation
 header_pages:
+  - index.md
   - blog.md
   - causal-ai-book.md
