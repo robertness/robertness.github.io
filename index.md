@@ -69,18 +69,21 @@ You can find more of my publications and professional details on
 - **[Super Data Science Podcast – Episode #909: Causal AI with Robert Osazuwa Ness](https://www.superdatascience.com/podcast/sds-909-causal-ai-with-dr-robert-usazuwa-ness)**  
   *July 29, 2025*
 
+- **[Hockey Stick Show #26 – From Zombie Fungus to Causal AI](https://www.hockeystick.show/p/from-zombie-fungus-to-causal-ai-with)**
+  *October 07, 2024*
+
 - **[Causal Bandits Podcast #11: From Biology to Generative AI & RL | Causal Models with Robert Ness](https://www.youtube.com/watch?v=gazCIKYEv44&t=4s)**  
   *November 12, 2023*
 
 - **[TWIML Podcast – Episode #638: Are LLMs Good at Causal Reasoning?](https://twimlai.com/podcast/twimlai/are-llms-good-at-causal-reasoning/)**
-
-- **[TWIML Podcast – Episode #342: Causality 101 with Robert Ness](https://twimlai.com/podcast/twimlai/causality-101-robert-ness-robert-ness/)**
-
-- **[Hockey Stick Show #26 – From Zombie Fungus to Causal AI](https://www.hockeystick.show/p/from-zombie-fungus-to-causal-ai-with)**
-
-- **[ODSC Workshop 2023 – Causal AI](https://odsc.com/speakers/causal-ai/)**
+  *July 14, 2023*
 
 - **[BP Causal Inference Symposium 2023](https://www.linkedin.com/posts/venheads_my-colleagues-and-i-are-hosting-a-free-virtual-activity-7103287781941993474-iwP6/)**
 
+- **[ODSC Workshop 2021 – Causal AI](https://odsc.medium.com/why-causal-machine-learning-is-the-next-revolution-in-ai-7faef2ac425e)**
+  *March 21, 2021*
+
+- **[TWIML Podcast – Episode #342: Causality 101 with Robert Ness](https://twimlai.com/podcast/twimlai/causality-101-robert-ness-robert-ness/)**
+  *January 27, 2020*
 
 ---
