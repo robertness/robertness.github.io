@@ -30,4 +30,5 @@ theme: minima
 header_pages:
   - index.md
   - causal-ai-book.md
+  - workshops.md
   - blog.md
