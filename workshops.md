@@ -3,7 +3,7 @@ layout: default
 title: Workshops
 ---
 
-# Workshops
+# Workshops (formerly Altdeep.ai)
 
 I run **in-person workshops** on Causal AI and Probabilistic Machine Learning. If you're interested in hosting a workshop at your event, please reach out to me on [LinkedIn](https://www.linkedin.com/in/osazuwa/).
 
@@ -29,7 +29,7 @@ Explore probabilistic modeling techniques and their connection to Bayesian metho
 
 ## Workshop Format
 
-These workshops are currently offered **in-person only**. They were previously available as online remote workshops through [Altdeep.ai](https://altdeep.ai), but are now exclusively conducted in-person to provide a more interactive and engaging learning experience.
+These workshops are currently offered **in-person only**. They were previously available as online remote workshops through the site Altdeep.ai, but are now exclusively conducted in-person to provide a more interactive and engaging learning experience.
 
 ---
 
