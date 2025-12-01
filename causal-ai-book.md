@@ -4,8 +4,6 @@ title: Causal AI Book
 permalink: /causal-ai-book/
 ---
 
-# Causal AI Book
-
 <figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px;">
   <img src="/assets/images/causal-ai-book-cover.jpg" alt="Causal AI Book Cover" width="300">
 </figure>
